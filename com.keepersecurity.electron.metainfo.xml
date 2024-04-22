@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.keepersecurity.electron</id>
+  <name>Keeper Security</name>
+  <project_license>LicenseRef-proprietary=https://www.keepersecurity.com</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>Keeper Security</summary>
+  <developer>
+    <name>Keeper Security</name>
+  </developer>
+  <description>
+    <p>
+      Keeper Security
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.keepersecurity.electron.desktop</launchable>
+
+  <url type="homepage">https://www.keepersecurity.com</url>
+  <url type="help">https://www.keepersecurity.com</url>
+
+  <provides>
+    <binary>keeperpasswordmanager</binary>
+  </provides>
+
+  <releases>
+    <release version="16.10.13" date="2024-04-22" />
+  </releases>
+
+  <content_rating type="oars-1.1" />
+</component>

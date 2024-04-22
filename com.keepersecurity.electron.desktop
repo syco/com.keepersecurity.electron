@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Keeper Security
+Comment=Keeper Security
+GenericName=Keeper Security
+Exec=keeperpasswordmanager
+Icon=com.keepersecurity.electron
+Type=Application
+StartupNotify=true
+Terminal=false
+Categories=Utility;
+StartupWMClass=keeperpasswordmanager
