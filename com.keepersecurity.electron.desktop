@@ -2,7 +2,7 @@
 Name=Keeper Security
 Comment=Keeper Security
 GenericName=Keeper Security
-Exec=keeperpasswordmanager
+Exec=/app/bin/run.sh
 Icon=com.keepersecurity.electron
 Type=Application
 StartupNotify=true
