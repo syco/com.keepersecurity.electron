@@ -24,6 +24,7 @@
   </provides>
 
   <releases>
+    <release version="16.11.1" date="2024-06-18" />
     <release version="16.11.0" date="2024-05-07" />
     <release version="16.10.13" date="2024-04-22" />
   </releases>
