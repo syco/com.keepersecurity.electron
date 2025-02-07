@@ -4,9 +4,9 @@
   "separate-locales": false,
   "sdk": "org.freedesktop.Sdk",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "23.08",
+  "runtime-version": "24.08",
   "base": "org.electronjs.Electron2.BaseApp",
-  "base-version": "23.08",
+  "base-version": "24.08",
   "finish-args": [
     "--device=all",
     "--filesystem=home",
@@ -24,8 +24,8 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://www.keepersecurity.com/desktop_electron/Linux/repo/deb/keeperpasswordmanager_16.11.3_amd64.deb",
-          "sha256": "7e4715e7a41a6207a89f9432e9383202adc94928747f15e35a481cf1a4b29290",
+          "url": "https://www.keepersecurity.com/desktop_electron/Linux/repo/deb/keeperpasswordmanager_17.0.0_amd64.deb",
+          "sha256": "647db194a670f2ecb4c4764588cc8eef2f7284d36c51333d25ef974519483ef3",
           "dest-filename": "keeper.deb"
         },
         {
