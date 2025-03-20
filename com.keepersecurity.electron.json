@@ -24,8 +24,8 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://www.keepersecurity.com/desktop_electron/Linux/repo/deb/keeperpasswordmanager_17.1.0_amd64.deb",
-          "sha256": "a7d6a6f901b4ae89ce4a4f91e58e36b02bf14482be7a9a9af0f9024847947cd8",
+          "url": "https://www.keepersecurity.com/desktop_electron/Linux/repo/deb/keeperpasswordmanager_17.1.1_amd64.deb",
+          "sha256": "1d806a74a1bd4f580ff9b1efad2133d2df1605ccbd39f7fe2b77d9e092769690",
           "dest-filename": "keeper.deb"
         },
         {
